@@ -14,11 +14,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <RouterLink to="/">Inicio</RouterLink> |
         <RouterLink to="/about">Nosotros</RouterLink> |
         <RouterLink to="/register">Registrar</RouterLink>|
-        <RouterLink to="/register">Registrar</RouterLink>|
-        <RouterLink to="/register">Registrar</RouterLink>|
-        <RouterLink to="/register">Registrar</RouterLink>|
-        <RouterLink to="/register">Registrar</RouterLink>|
-        <RouterLink to="/register">Registrar</RouterLink>|
+        <RouterLink to="/login">Ingresar</RouterLink>|
       </nav>
     </div>
   </header>

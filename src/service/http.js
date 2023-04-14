@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const urlServidor = "http://127.0.0.1:3000/api";
+const urlServidor = "http://127.0.0.1:3005/api";
 
 export const http = () => {
   const interceptor = axios.create({
